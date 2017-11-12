@@ -9,12 +9,12 @@ hmm勉強用プロジェクト
 
 ## Usage
 * サンプルの結果表示  
-`$ python hmm.py`
+`$ python enshu_hmm.py`
 * 課題用プログラムについて  
 kadai.py ４２〜５５行目の各パラメータに数値を入力  
 `$ python kadai.py`
 * 評価問題によるモデル識別  
-`$ python identification.py`
+`$ python identify.py`
 
 ## Author
 Funasaka Kuniyuki
